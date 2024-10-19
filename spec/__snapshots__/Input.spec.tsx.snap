@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Поле ввода Поле доступен для воода 1`] = `
+<DocumentFragment>
+  <div
+    class="input-field"
+  >
+    <span>
+      Input
+    </span>
+    <input
+      type="text"
+      value="Greetings!"
+    />
+    <label />
+  </div>
+</DocumentFragment>
+`;
